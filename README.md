@@ -21,8 +21,6 @@ The goal of this project was to analyze the Chinook Music Store database to unco
 ---
 
 ### 📁 Presentation Preview
-> [!TIP]
-> Since GitHub does not preview PPTX files directly, I have provided a PDF version for easy online viewing.
 
 **[👉 View the Full Analysis PDF Here](Chinook%20Music%20Store%20Analysis.pdf)**
 
